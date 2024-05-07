@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as t,N as r}from"./chunks/framework.0173b754.js";const b=JSON.parse('{"title":"看~","description":"","frontmatter":{},"headers":[],"relativePath":"column/Movie/index.md"}'),o={name:"column/Movie/index.md"},i=r("",10),h=[i];function n(l,d,c,s,_,u){return e(),t("div",null,h)}const q=a(o,[["render",n]]);export{b as __pageData,q as default};
