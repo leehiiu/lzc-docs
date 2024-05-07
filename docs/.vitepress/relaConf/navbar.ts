@@ -1,3 +1,10 @@
+/*
+ * @Description: 
+ * @Author: 李泽诚
+ * @Date: 2024-03-28 16:28:27
+ * @LastEditors: 李泽诚
+ * @LastEditTime: 2024-04-01 10:52:54
+ */
 import { DefaultTheme } from 'vitepress';
 
 export const nav: DefaultTheme.NavItem[] = [
@@ -15,6 +22,10 @@ export const nav: DefaultTheme.NavItem[] = [
       {
         text: '所思·所想',
         link: '/column/Growing/'
+      },
+      {
+        text: '电影·连续剧',
+        link: '/column/Movie/'
       }
     ]
   },
@@ -30,18 +41,18 @@ export const nav: DefaultTheme.NavItem[] = [
   {
     text: '关于我',
     items: [
-      { text: 'Github', link: 'https://github.com/Jacqueline712' },
+      { text: 'Github', link: 'https://github.com/leehiiu' },
       {
         text: '掘金',
-        link: 'https://juejin.cn/user/3131845139247960/posts'
+        link: 'https://juejin.cn/user/3285766295000775/posts'
       },
       {
-        text: '飞书社区',
-        link: 'https://pzfqk98jn1.feishu.cn/wiki/space/7193915595975491587?ccm_open_type=lark_wiki_spaceLink'
+        text: '小红书',
+        link: 'https://www.xiaohongshu.com/user/profile/5d3957f30000000016012b12'
       },
       {
-        text: '知乎',
-        link: 'https://www.zhihu.com/people/zheng-zi-ji-67-89/posts'
+        text: 'Bilibili',
+        link: 'https://space.bilibili.com/15032077'
       }
     ]
   }

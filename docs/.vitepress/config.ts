@@ -1,3 +1,10 @@
+/*
+ * @Description: 
+ * @Author: 李泽诚
+ * @Date: 2024-03-28 16:28:27
+ * @LastEditors: 李泽诚
+ * @LastEditTime: 2024-03-30 13:50:17
+ */
 
 import { defineConfig } from 'vitepress';
 import { sidebar, nav } from './relaConf';
@@ -5,7 +12,7 @@ import { sidebar, nav } from './relaConf';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/lzc-docs/',
-  title: 'docs-demo-blog',
+  title: '泽城-分享',
   description: 'A VitePress Site',
 
   // 配置markdown写作风格

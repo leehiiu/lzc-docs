@@ -4,13 +4,13 @@ layout: home
 home: true
 
 # https://vitepress.dev/reference/default-theme-home-page
-title: 周一的博客
+title: 泽诚的博客
 titleTemplate: Hi，终于等到你
 editLink: true
 lastUpdated: true
 
 hero:
-    name: 周一同学
+    name: 泽诚同学
     text: Stay foolish, Stay hungry.
     tagline: /斜杠青年/人间清醒/工具控/
     image:

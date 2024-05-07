@@ -1,15 +1,22 @@
+/*
+ * @Description: 
+ * @Author: 李泽诚
+ * @Date: 2024-03-28 16:28:27
+ * @LastEditors: 李泽诚
+ * @LastEditTime: 2024-05-07 11:09:29
+ */
 import { DefaultTheme } from 'vitepress';
 export const sidebar: DefaultTheme.Sidebar = {
   '/column/Algorithm/': [
     {
-      text: '栈和队列',
+      text: 'vsCode插件与vue Vapor',
       items: [
         {
-          text: '栈-深拷贝和浅拷贝',
+          text: 'vsCode插件',
           link: '/column/Algorithm/001_Stack'
         },
         {
-          text: '队列-事件循环',
+          text: 'vue Vapor',
           link: '/column/Algorithm/002_Queue'
         }
       ]
