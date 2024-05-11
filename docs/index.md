@@ -22,7 +22,7 @@ hero:
       link: /column/views/guide
     - theme: alt
       text: 个人成长
-      link: /column/Growing/
+      link: /column/views/vue
 features:
   - icon: 🤹‍♀️
     title: Web前端
