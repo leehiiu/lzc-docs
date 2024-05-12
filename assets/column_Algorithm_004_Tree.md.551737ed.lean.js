@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,N as l}from"./chunks/framework.0173b754.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"column/Algorithm/004_Tree.md"}'),o={name:"column/Algorithm/004_Tree.md"},p=l("",8),e=[p];function t(r,c,F,D,y,A){return n(),a("div",null,e)}const f=s(o,[["render",t]]);export{i as __pageData,f as default};
